@@ -1,16 +1,8 @@
-# hau_id
+# Flutter HAU ID
 
-A digital copy of a student's HAU ID for a mobile development workshop.
+A digital copy of a student's campus ID for a mobile development workshop led by Google Developer Groups on Campus - Holy Angel University.
 
-## Getting Started
+The participants will replicate this application in a code-along lecture where they must demonstrate their understanding of fundamental Flutter Widgets such as Text, Images, Containers, Columns, etc.
 
-This project is a starting point for a Flutter application.
+<img width="150" src="https://github.com/user-attachments/assets/4b07a709-66e6-4763-830f-571fd37d66eb">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
